@@ -1,6 +1,6 @@
 ¡Bienvenido a la Aventura del Preprocesamiento de Datos! 🚀
 
-¡Hola y bienvenido! 🎉 Nos emociona que estés aquí, porque estás a punto de embarcarte en una increíble aventura de aprendizaje orientada a los pipelines de preprocesamiento.
+¡Hola y bienvenido! 🎉 Me emociona un montón que estés aquí, porque estás a punto de embarcarte en una increíble aventura de aprendizaje orientada a los pipelines de preprocesamiento.
 
 En este espacio, exploraremos cómo transformar datos crudos en información estructurada y lista para su análisis. Aprenderás sobre técnicas clave como:
 
